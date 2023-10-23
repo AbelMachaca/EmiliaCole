@@ -1,0 +1,15 @@
+:root{
+    
+    --tipografiaGeneral: 'Open Sans', sans-serif;
+    --tipografiaTitulos: 'Raleway', sans-serif;
+    --tipografiaEmilia: 'Work Sans', sans-serif;
+}
+
+body {
+    font-family: var(--tipografiaGeneral);
+}
+
+h1 { 
+    font-family: var(--tipografiaTitulos);
+    text-transform: uppercase;
+}
